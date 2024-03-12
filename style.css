@@ -4,11 +4,37 @@ img{
 }
 
 .first-picture{
-    margin: 10px;
-    width: 150%;
+    margin:10px;
+    width: 100%;
     height: 400px;
 }
 
 .second-picture{
-    
+    margin: 10px;
+    width: 100%;
+    height: 100%;
+}
+
+.tird-picture{
+    margin: 10px;
+    width: 100%;
+    height: 100%;
+}
+
+.fourth-picture{
+    margin: 10px;
+    width: 100%;
+    height: 100%;
+}
+
+.fifth-picture{
+    margin: 10px;
+    width: 100%;
+    height: 100%;
+}
+
+.sixth-picture{
+    margin: 10px;
+    width: 100%;
+    height: 100%;
 }
